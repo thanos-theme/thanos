@@ -1,0 +1,23 @@
+{
+  "name": "Thanos - Infinity Dark",
+  "cursorColor": "#C4C5B5",
+  "selectionBackground": "#2A3049",
+  "background": "#181B28",
+  "foreground": "#C4C5B5",
+  "black": "#1A1A1A",
+  "blue": "#9d65ff",
+  "cyan": "#9d65ff",
+  "green": "#58ebd7",
+  "purple": "#00A1E4",
+  "red": "#ff206e",
+  "white": "#C4C5B5",
+  "yellow": "#FABC2A",
+  "brightBlack": "#625E4C",
+  "brightBlue": "#9d65ff",
+  "brightCyan": "#9d65ff",
+  "brightGreen": "#58ebd7",
+  "brightPurple": "#00A1E4",
+  "brightRed": "#ff206e",
+  "brightWhite": "#F6F6EF",
+  "brightYellow": "#FABC2A"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "thanos-theme",
+  "displayName": "Thanos Theme",
+  "description": "A theme made by a Titan to conquer the universe",
+  "version": "0.0.2",
+  "license": "MIT",
+  "publisher": "arthur404dev",
+  "icon": "images/thanos-logo.png",
+  "galleryBanner": {
+    "color": "#705fbd",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thanos-theme/visual-studio-code"
+  },
+  "bugs": {
+    "url": "https://github.com/thanos-theme/visual-studio-code/issues"
+  },
+  "homepage": "https://github.com/thanos-theme/visual-studio-code/blob/main/README.md",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "thanos",
+    "thanos theme",
+    "thanos-theme",
+    "theme",
+    "purple",
+    "light",
+    "dark",
+    "infinity stones",
+    "infinity"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Thanos : Infinity Dark - Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark/InfinityDarkContrast.json"
+      }
+    ]
+  },
+  "scripts": {
+    "deploy": "vsce publish"
+  }
+}
